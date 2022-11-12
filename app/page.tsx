@@ -15,7 +15,11 @@ function Home() {
                 Joel
               </span>
             </p>
-            <p className="text-2xl text-slate-500">Work in progress</p>
+            <p className="text-xl text-slate-500">
+              Degree in Searching Stackoverflow and Having No Original Ideas.
+              <br />
+              Defender of Bubble Tea Plushies.
+            </p>
           </div>
         </div>
 
