@@ -1,1 +1,1 @@
-Check the website: [this isn't done yet]
+https://jtpotato.vercel.app/
