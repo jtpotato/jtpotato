@@ -1,10 +1,10 @@
 import { Text, Container, Card, Grid, Image, Link } from "@nextui-org/react";
 import dynamic from "next/dynamic";
-import { batch, Fade, ScrollContainer, ScrollPage, Zoom } from "react-scroll-motion";
 const Animator = dynamic(
   import("react-scroll-motion").then((it) => it.Animator),
   { ssr: false }
 );
+import { batch, Fade, ScrollContainer, ScrollPage, Zoom } from "react-scroll-motion";
 import ProjectCard from "./project";
 
 function Projects() {

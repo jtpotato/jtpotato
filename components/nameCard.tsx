@@ -1,3 +1,6 @@
+"use client";
+
+/* eslint-disable react/no-unescaped-entities */
 import { Container, Row, Text } from "@nextui-org/react";
 import dynamic from "next/dynamic";
 

@@ -2,10 +2,11 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
-  experimental: { appDir: true },
+  experimental: { appDir: false },
   images: {
     domains: [
       "github-readme-stats.vercel.app",
+      "i3.ytimg.com"
     ]
   }
 }
