@@ -29,7 +29,7 @@ function NameCard() {
     <>
       <ScrollContainer>
         <ScrollPage>
-          <Animator animation={batch(Fade(-2, 1))}>
+          <Animator animation={batch(Fade(-3, 1))}>
             <Container>
               <Row justify="center" align="center" css={{ height: "100vh" }}>
                 <Text>
