@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+      {
+        "source": "/workflow-learn/:path*",
+        "destination": "https://workflow-learn.vercel.app/:path*"
+      }
+    ]
+  }
