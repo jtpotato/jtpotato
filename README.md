@@ -1,7 +1,7 @@
 # **Hi!**
 Glad you found this place 😊
 
-I'm jtpotato 🧋:
+## **I'm jtpotato 🧋**
 - Coding since 2015 🕙
 - Mainly webdev 🌐 projects, some AI
 ### **My current stack**
