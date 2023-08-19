@@ -5,7 +5,7 @@ Glad you found this place 😊
 - Coding since 2015 🕙
 - Mainly webdev 🌐 projects, some AI
 ## **My current stack**
-- [sveltejs/kit](https://github.com/sveltejs/kit)
+- [Next.js](https://nextjs.org/)
 - [vercel](https://vercel.com) ▲
 - [firebase](https://firebase.google.com/) 🔥
 - [supabase/supabase](https://github.com/supabase/supabase) ⚡️
