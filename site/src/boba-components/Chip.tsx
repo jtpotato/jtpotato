@@ -8,9 +8,9 @@ type ChipProps = {
 function Chip(props: ChipProps) {
   return (
     <>
-      <div className="flex flex-row items-center justify-center rounded-full bg-white/5 border border-white/50 w-fit space-x-1">
+      <div className="flex flex-row items-center justify-center rounded-full bg-white/5 border border-white/50 w-fit space-x-1 px-2 py-1 whitespace-nowrap">
         {props.logo ? props.logo : <></>}
-        <span className="text-sm pl-0 pr-2 py-1">{props.text}</span>
+        <span className="text-sm">{props.text}</span>
       </div>
     </>
   );
