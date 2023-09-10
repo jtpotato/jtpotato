@@ -1,9 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[931],{2597:function(e,n,r){Promise.resolve().then(r.bind(r,9126)),Promise.resolve().then(r.t.bind(r,8673,23))},9126:function(e,n,r){"use strict";r.r(n);var t=r(4357),i=r(6439);r(6495),n.default=function(){let[e,n]=(0,i.useState)(!0),r=(0,i.useRef)(null);return(0,t.jsx)(t.Fragment,{children:(0,t.jsx)("button",{className:"inline clickswitch",onClick:function(){var t,i,s;n(!e),null===(t=r.current)||void 0===t||t.classList.remove("clickswitch_anim"),null===(i=r.current)||void 0===i||i.offsetWidth,null===(s=r.current)||void 0===s||s.classList.add("clickswitch_anim")},ref:r,children:e?(0,t.jsx)("span",{className:"inline",children:"Joel"}):(0,t.jsx)("span",{className:"inline",children:"奕諴"})})})}},6495:function(){},8673:function(){},7543:function(e,n,r){"use strict";/**
- * @license React
- * react-jsx-runtime.production.min.js
- *
- * Copyright (c) Meta Platforms, Inc. and affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */var t=r(6439),i=Symbol.for("react.element"),s=Symbol.for("react.fragment"),c=Object.prototype.hasOwnProperty,o=t.__SECRET_INTERNALS_DO_NOT_USE_OR_YOU_WILL_BE_FIRED.ReactCurrentOwner,l={key:!0,ref:!0,__self:!0,__source:!0};n.Fragment=s,n.jsx=function(e,n,r){var t,s={},u=null,a=null;for(t in void 0!==r&&(u=""+r),void 0!==n.key&&(u=""+n.key),void 0!==n.ref&&(a=n.ref),n)c.call(n,t)&&!l.hasOwnProperty(t)&&(s[t]=n[t]);if(e&&e.defaultProps)for(t in n=e.defaultProps)void 0===s[t]&&(s[t]=n[t]);return{$$typeof:i,type:e,key:u,ref:a,props:s,_owner:o.current}}},4357:function(e,n,r){"use strict";e.exports=r(7543)}},function(e){e.O(0,[702,431,744],function(){return e(e.s=2597)}),_N_E=e.O()}]);
