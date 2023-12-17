@@ -1,11 +1,6 @@
-<h1 align="center">
-  Hi! I'm jtpotato
-</h1>
-
-Glad you found this place 😊
+<img src="/build.svg" width="100%"></img>
 
 ## A little about me 🧋
-- My name's Joel/奕諴
 - Coding since 2015 🕙
 - Mainly webdev 🌐 projects, starting iOS 📱, some AI
 
