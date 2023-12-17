@@ -1,0 +1,14 @@
+{
+  "name": "jtpotato",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "build": "bun --bun run svgs/templater.ts"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
