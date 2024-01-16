@@ -4,7 +4,7 @@
 - Coding since 2015 🕙
 - Mainly webdev 🌐 projects, starting iOS 📱, some AI
 
-See the [main site](https://jtpotato.github.io/)
+See the [main site](https://jtpotato.vercel.app/)
 
 ### Frontend
 ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
