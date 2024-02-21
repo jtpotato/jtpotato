@@ -1,4 +1,4 @@
-<img src="/build.svg" width="100%"></img>
+<img src="/Namecard.svg" width="100%"></img>
 
 ## A little about me 🧋
 - Coding since 2015 🕙

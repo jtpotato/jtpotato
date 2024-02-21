@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 700 350" width="700" height="350" font-family="system-ui">
-  <g fill="white" font-size="1em">
-    <text x="350" y="150" font-size="2em" text-anchor="middle">Joel &#x2022; 奕諴</text>
-    <text x="350" y="270" font-size="0.8em" text-anchor="middle" style="white-space: pre;">
-      Student            Developer
-    </text>
-    <line x1="350" y1="253" x2="350" y2="277" stroke="white" stroke-width="1" />
-  </g>
-</svg>
