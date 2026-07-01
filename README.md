@@ -1,6 +1,7 @@
 <img src="/Namecard.svg" width="100%"></img>
 
 ## A little about me 🧋
+- Engineering/Science student
 - Coding since 2015 🕙
 - Mainly webdev 🌐 projects, starting iOS 📱, some AI
 
